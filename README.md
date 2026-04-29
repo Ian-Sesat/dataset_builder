@@ -134,6 +134,23 @@ Key parameters in the script:
 * Supported formats:
   `.jpg, .jpeg, .png, .gif, .bmp, .webp, .tiff, .heic`
 
+### Customization
+
+This script is designed to be easily adaptable. Users can:
+
+* Modify or extend the **category structure** in `CATEGORIES` to include their own dataset classes
+* Add or remove **subfolders** depending on dataset requirements
+* Update `BASE_PATH` to point to their local image dataset directory
+* Update `OUTPUT_BASE` to define where the processed dataset should be stored
+
+Ensure that the folder structure under `BASE_PATH` matches the expected format:
+
+```
+BASE_PATH/
+    _<folder_name>/
+        <images>
+```
+
 ---
 
 ## Example Output Summary
