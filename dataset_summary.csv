@@ -1,0 +1,101 @@
+folder,category,replaced_from,found,saved,status,pct_taken
+ant,Animals,,2491,2491,saved,100.0
+bumblebee,Animals,,9321,5000,saved,53.6
+cow,Animals,,5538,5000,saved,90.3
+elephant,Animals,,11223,5000,saved,44.6
+golden_retriever,Animals,,2115,2115,saved,100.0
+hamster,Animals,,2064,2064,saved,100.0
+hippo,Animals,,11316,5000,saved,44.2
+hummingbird,Animals,,4995,4995,saved,100.0
+jellyfish,Animals,,2484,2484,saved,100.0
+lion,Animals,,7717,5000,saved,64.8
+orca,Animals,,9019,5000,saved,55.4
+penguin,Animals,,8741,5000,saved,57.2
+spider,Animals,,6329,5000,saved,79.0
+zebra,Animals,,7798,5000,saved,64.1
+astronomy,Nature & Weather,,2650,2650,saved,100.0
+autumn,Nature & Weather,,7497,5000,saved,66.7
+desert,Nature & Weather,,3563,3563,saved,100.0
+fog,Nature & Weather,,4022,4022,saved,100.0
+island,Nature & Weather,,5956,5000,saved,83.9
+lake,Nature & Weather,,68199,5000,saved,7.3
+moon,Nature & Weather,,24212,5000,saved,20.7
+ocean,Nature & Weather,,5308,5000,saved,94.2
+polar_lights,Nature & Weather,,2382,2382,saved,100.0
+rainbow,Nature & Weather,,9896,5000,saved,50.5
+reef,Nature & Weather,,6269,5000,saved,79.8
+snow,Nature & Weather,,57255,5000,saved,8.7
+apple,Food & Drink,,6027,5000,saved,83.0
+apricot,Food & Drink,,5483,5000,saved,91.2
+beer,Food & Drink,,8397,5000,saved,59.5
+coffee,Food & Drink,,4027,4027,saved,100.0
+egg,Food & Drink,,6007,5000,saved,83.2
+lavender,Food & Drink,,4386,4386,saved,100.0
+orange,Food & Drink,,10322,5000,saved,48.4
+pasta,Food & Drink,,7594,5000,saved,65.8
+pineapple,Food & Drink,,9002,5000,saved,55.5
+sushi,Food & Drink,,3973,3973,saved,100.0
+wine,Food & Drink,,11455,5000,saved,43.6
+archery,Sports & Activities,,11641,5000,saved,43.0
+baseball,Sports & Activities,,34924,5000,saved,14.3
+parade,Sports & Activities,,4081,4081,saved,100.0
+paragliding,Sports & Activities,,13806,5000,saved,36.2
+pole_vault,Sports & Activities,,6201,5000,saved,80.6
+running,Sports & Activities,,9727,5000,saved,51.4
+sailing,Sports & Activities,,12698,5000,saved,39.4
+soccer,Sports & Activities,,6386,5000,saved,78.3
+sumo_wrestling,Sports & Activities,,6856,5000,saved,72.9
+surfboard,Sports & Activities,,2736,2736,saved,100.0
+wedding,Sports & Activities,,40809,5000,saved,12.3
+yoga,Sports & Activities,,11761,5000,saved,42.5
+airport,Urban & Architecture,,3397,3397,saved,100.0
+balcony,Urban & Architecture,,7160,5000,saved,69.8
+bar,Urban & Architecture,,5791,5000,saved,86.3
+bathroom,Urban & Architecture,,19264,5000,saved,26.0
+big_ben,Urban & Architecture,,3871,3871,saved,100.0
+billboard,Urban & Architecture,,21508,5000,saved,23.2
+bridge,Urban & Architecture,,16011,5000,saved,31.2
+church,Urban & Architecture,,9352,5000,saved,53.5
+eiffel_tower,Urban & Architecture,,8473,5000,saved,59.0
+ferris_wheel,Urban & Architecture,,3905,3905,saved,100.0
+golden_gate_bridge,Urban & Architecture,,3866,3866,saved,100.0
+harbor,Urban & Architecture,,4003,4003,saved,100.0
+hospital,Urban & Architecture,,3207,3207,saved,100.0
+neon_light,Urban & Architecture,,11035,5000,saved,45.3
+petronas_towers,Urban & Architecture,,3570,3570,saved,100.0
+playground,Urban & Architecture,,36734,5000,saved,13.6
+windmill,Urban & Architecture,,3945,3945,saved,100.0
+baby,People & Portraits,,4000,4000,saved,100.0
+portrait_man,People & Portraits,,3453,3453,saved,100.0
+portrait_woman,People & Portraits,,3667,3667,saved,100.0
+ambulance,Objects & Technology,,6361,5000,saved,78.6
+airplane,Objects & Technology,,26818,5000,saved,18.6
+balloon,Objects & Technology,,3332,3332,saved,100.0
+banknote,Objects & Technology,,10926,5000,saved,45.8
+boat,Objects & Technology,,53929,5000,saved,9.3
+camera,Objects & Technology,,9677,5000,saved,51.7
+candle,Objects & Technology,,4485,4485,saved,100.0
+chips,Objects & Technology,,10524,5000,saved,47.5
+coin,Objects & Technology,,2974,2974,saved,100.0
+computer_monitor,Objects & Technology,,3466,3466,saved,100.0
+flag,Objects & Technology,,15031,5000,saved,33.3
+hat,Objects & Technology,,24279,5000,saved,20.6
+id_document,Objects & Technology,,5446,5000,saved,91.8
+infrared,Objects & Technology,,6000,5000,saved,83.3
+keyboard,Objects & Technology,,4400,4400,saved,100.0
+laptop,Objects & Technology,,54072,5000,saved,9.2
+microphone,Objects & Technology,,20970,5000,saved,23.8
+motorcycle,Objects & Technology,,17860,5000,saved,28.0
+power_line,Objects & Technology,,2485,2485,saved,100.0
+ship,Objects & Technology,,16563,5000,saved,30.2
+sign,Objects & Technology,,12305,5000,saved,40.6
+smart_phone,Objects & Technology,,16708,5000,saved,29.9
+train,Objects & Technology,,56778,5000,saved,8.8
+christmas,Art & Culture,,9985,5000,saved,50.1
+fire,Art & Culture,,10048,5000,saved,49.8
+graffiti,Art & Culture,,4036,4036,saved,100.0
+grave,Art & Culture,,36412,5000,saved,13.7
+organ,Art & Culture,,4927,4927,saved,100.0
+painting,Art & Culture,,49627,5000,saved,10.1
+statue,Art & Culture,,33266,5000,saved,15.0
+saxophone,Art & Culture,,10001,5000,saved,50.0
