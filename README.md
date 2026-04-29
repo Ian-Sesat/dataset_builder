@@ -103,28 +103,6 @@ A structured dataset report containing:
 
 ---
 
-## Key Features
-
-✔ Automated dataset construction
-
-✔ Hierarchical folder support
-
-✔ Balanced sampling across subfolders
-
-✔ Proportional allocation strategy
-
-✔ Zone-based diversity sampling
-
-✔ Minimum and maximum dataset enforcement
-
-✔ Interactive replacement for insufficient folders
-
-✔ Safe file copying with duplicate handling
-
-✔ Dataset analytics (CSV + charts)
-
----
-
 ## Configuration
 
 Key parameters in the script:
@@ -153,28 +131,4 @@ BASE_PATH/
 
 ---
 
-## Example Output Summary
 
-During execution, the script prints:
-
-* Folder processing status
-* Image counts per category
-* Selected vs skipped folders
-* Replacement mappings (if triggered)
-
----
-
-## Purpose
-
-This tool ensures that large-scale image datasets are:
-
-* Cleanly structured
-* Statistically balanced
-* Diversity-preserving
-* Ready for machine learning training pipelines
-
----
-
-## License
-
-This project is intended for research and educational use. Modify freely for personal or academic datasets.
